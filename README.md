@@ -1,5 +1,5 @@
 # High-Earner-classifier
-•	Scope: predicted whether an individual income is more than $50k. \
+•	Scope: predicted whether an individual income is more than $50k. <br />
 •	Dataset: 32561 citizens/12 mixed attributes, CSV-format.  
 •	The packages used: NumPy, Pandas, SciPy, Matplotlib/Seaborn, Scikit-learn. 
 •	Cleaned the data: summarised them in histograms and box plots, kept outliers because of their rationality, transformed data anomalies (country, job). 
